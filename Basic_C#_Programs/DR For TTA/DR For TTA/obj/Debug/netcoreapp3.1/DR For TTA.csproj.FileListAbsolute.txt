@@ -1,0 +1,13 @@
+C:\Users\Jrhea\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\DR For TTA\DR For TTA\bin\Debug\netcoreapp3.1\DR For TTA.exe
+C:\Users\Jrhea\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\DR For TTA\DR For TTA\bin\Debug\netcoreapp3.1\DR For TTA.deps.json
+C:\Users\Jrhea\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\DR For TTA\DR For TTA\bin\Debug\netcoreapp3.1\DR For TTA.runtimeconfig.json
+C:\Users\Jrhea\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\DR For TTA\DR For TTA\bin\Debug\netcoreapp3.1\DR For TTA.runtimeconfig.dev.json
+C:\Users\Jrhea\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\DR For TTA\DR For TTA\bin\Debug\netcoreapp3.1\DR For TTA.dll
+C:\Users\Jrhea\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\DR For TTA\DR For TTA\bin\Debug\netcoreapp3.1\DR For TTA.pdb
+C:\Users\Jrhea\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\DR For TTA\DR For TTA\obj\Debug\netcoreapp3.1\DR For TTA.csproj.AssemblyReference.cache
+C:\Users\Jrhea\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\DR For TTA\DR For TTA\obj\Debug\netcoreapp3.1\DR For TTA.AssemblyInfoInputs.cache
+C:\Users\Jrhea\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\DR For TTA\DR For TTA\obj\Debug\netcoreapp3.1\DR For TTA.AssemblyInfo.cs
+C:\Users\Jrhea\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\DR For TTA\DR For TTA\obj\Debug\netcoreapp3.1\DR For TTA.csproj.CoreCompileInputs.cache
+C:\Users\Jrhea\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\DR For TTA\DR For TTA\obj\Debug\netcoreapp3.1\DR For TTA.dll
+C:\Users\Jrhea\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\DR For TTA\DR For TTA\obj\Debug\netcoreapp3.1\DR For TTA.pdb
+C:\Users\Jrhea\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\DR For TTA\DR For TTA\obj\Debug\netcoreapp3.1\DR For TTA.genruntimeconfig.cache
