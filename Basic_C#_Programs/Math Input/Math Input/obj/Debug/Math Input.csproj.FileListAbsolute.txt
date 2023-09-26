@@ -1,0 +1,7 @@
+C:\Users\Jrhea\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\Math Input\Math Input\bin\Debug\Math Input.exe.config
+C:\Users\Jrhea\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\Math Input\Math Input\bin\Debug\Math Input.exe
+C:\Users\Jrhea\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\Math Input\Math Input\bin\Debug\Math Input.pdb
+C:\Users\Jrhea\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\Math Input\Math Input\obj\Debug\Math Input.csproj.AssemblyReference.cache
+C:\Users\Jrhea\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\Math Input\Math Input\obj\Debug\Math Input.csproj.CoreCompileInputs.cache
+C:\Users\Jrhea\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\Math Input\Math Input\obj\Debug\Math Input.exe
+C:\Users\Jrhea\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\Math Input\Math Input\obj\Debug\Math Input.pdb
