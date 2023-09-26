@@ -1,0 +1,13 @@
+C:\Users\Jrhea\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\Anonymous income comparison\Anonymous income comparison\bin\Debug\netcoreapp3.1\Anonymous income comparison.exe
+C:\Users\Jrhea\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\Anonymous income comparison\Anonymous income comparison\bin\Debug\netcoreapp3.1\Anonymous income comparison.deps.json
+C:\Users\Jrhea\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\Anonymous income comparison\Anonymous income comparison\bin\Debug\netcoreapp3.1\Anonymous income comparison.runtimeconfig.json
+C:\Users\Jrhea\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\Anonymous income comparison\Anonymous income comparison\bin\Debug\netcoreapp3.1\Anonymous income comparison.runtimeconfig.dev.json
+C:\Users\Jrhea\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\Anonymous income comparison\Anonymous income comparison\bin\Debug\netcoreapp3.1\Anonymous income comparison.dll
+C:\Users\Jrhea\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\Anonymous income comparison\Anonymous income comparison\bin\Debug\netcoreapp3.1\Anonymous income comparison.pdb
+C:\Users\Jrhea\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\Anonymous income comparison\Anonymous income comparison\obj\Debug\netcoreapp3.1\Anonymous income comparison.csproj.AssemblyReference.cache
+C:\Users\Jrhea\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\Anonymous income comparison\Anonymous income comparison\obj\Debug\netcoreapp3.1\Anonymous income comparison.AssemblyInfoInputs.cache
+C:\Users\Jrhea\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\Anonymous income comparison\Anonymous income comparison\obj\Debug\netcoreapp3.1\Anonymous income comparison.AssemblyInfo.cs
+C:\Users\Jrhea\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\Anonymous income comparison\Anonymous income comparison\obj\Debug\netcoreapp3.1\Anonymous income comparison.csproj.CoreCompileInputs.cache
+C:\Users\Jrhea\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\Anonymous income comparison\Anonymous income comparison\obj\Debug\netcoreapp3.1\Anonymous income comparison.dll
+C:\Users\Jrhea\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\Anonymous income comparison\Anonymous income comparison\obj\Debug\netcoreapp3.1\Anonymous income comparison.pdb
+C:\Users\Jrhea\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\Anonymous income comparison\Anonymous income comparison\obj\Debug\netcoreapp3.1\Anonymous income comparison.genruntimeconfig.cache
