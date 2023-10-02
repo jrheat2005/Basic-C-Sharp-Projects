@@ -6,25 +6,14 @@ using System.Threading.Tasks;
 
 namespace Method_Submission
 {
-    public class MathOperations
+    public class MathCalculator
     {
-        // Method 1: Add 10 to the input
-        public int AddTen(int number)
+        // Created a method that takes two integers as parameters, with one of them optional (default value is 0).
+        public int PerformMathOperation(int number1, int number2 = 0)
         {
-            return number + 10;
-        }
-
-        // Method 2: Subtract 5 from the input
-        public int SubtractFive(int number)
-        {
-            return number - 5;
-        }
-
-        // Method 3: Multiply the input by 2
-        public int MultiplyByTwo(int number)
-        {
-            return number * 2;
+            // Add the numbers together
+            int result = number1 + number2;
+            return result;
         }
     }
-    
 }

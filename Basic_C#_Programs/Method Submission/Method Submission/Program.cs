@@ -5,40 +5,33 @@ class Program
 {
     static void Main()
     {
-        // Ask the user for a number
-        Console.Write("Enter a number for math operations: ");
+        // Instantiate the MathCalculator class
+        MathCalculator calculator = new MathCalculator();
 
-        try
+        // Ask the user to input two numbers, one at a time
+        Console.Write("Enter the first number: ");
+        int input1 = int.Parse(Console.ReadLine());
+
+        Console.Write("Enter the second number (press Enter to skip): ");
+        string input2Str = Console.ReadLine();
+
+        // Initialize input2 with a default value of 0
+        int input2 = 0;
+
+        // Check if the user entered a second number
+        if (!string.IsNullOrEmpty(input2Str))
         {
-            // Read the user input as a string
-            string userInput = Console.ReadLine();
-
-            // Convert the user input to an integer
-            int number = int.Parse(userInput);
-
-            // Create an instance of the MathOperations class
-            MathOperations mathOps = new MathOperations();
-
-            // Call each method and display the results
-            int result1 = mathOps.AddTen(number);
-            int result2 = mathOps.SubtractFive(number);
-            int result3 = mathOps.MultiplyByTwo(number);
-
-            Console.WriteLine($"Result of adding 10: {result1}");
-            Console.WriteLine($"Result of subtracting 5: {result2}");
-            Console.WriteLine($"Result of multiplying by 2: {result3}");
-        }
-        catch (FormatException)
-        {
-            // Handle the case where the user enters non-integer input
-            Console.WriteLine("Error: Please enter a valid integer.");
-        }
-        catch (Exception ex)
-        {
-            // Handle any other unexpected exceptions
-            Console.WriteLine($"An error occurred: {ex.Message}");
+            // Parse the second input as an integer
+            input2 = int.Parse(input2Str);
         }
 
+        // Call the PerformMathOperation method with the provided inputs
+        int result = calculator.PerformMathOperation(input1, input2);
+
+        // Display the result
+        Console.WriteLine($"Result of the math operation: {result}");
+
+        // Wait for user input before exiting (optional)
         Console.WriteLine("Press any key to exit...");
         Console.ReadKey();
     }
