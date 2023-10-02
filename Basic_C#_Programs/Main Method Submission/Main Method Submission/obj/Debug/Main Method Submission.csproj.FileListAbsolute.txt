@@ -1,0 +1,7 @@
+C:\Users\Jrhea\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\Main Method Submission\Main Method Submission\bin\Debug\Main Method Submission.exe.config
+C:\Users\Jrhea\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\Main Method Submission\Main Method Submission\bin\Debug\Main Method Submission.exe
+C:\Users\Jrhea\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\Main Method Submission\Main Method Submission\bin\Debug\Main Method Submission.pdb
+C:\Users\Jrhea\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\Main Method Submission\Main Method Submission\obj\Debug\Main Method Submission.csproj.AssemblyReference.cache
+C:\Users\Jrhea\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\Main Method Submission\Main Method Submission\obj\Debug\Main Method Submission.csproj.CoreCompileInputs.cache
+C:\Users\Jrhea\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\Main Method Submission\Main Method Submission\obj\Debug\Main Method Submission.exe
+C:\Users\Jrhea\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\Main Method Submission\Main Method Submission\obj\Debug\Main Method Submission.pdb
