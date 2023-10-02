@@ -1,0 +1,7 @@
+C:\Users\Jrhea\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\Console Strings and Integers\Console Strings and Integers\bin\Debug\Console Strings and Integers.exe.config
+C:\Users\Jrhea\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\Console Strings and Integers\Console Strings and Integers\bin\Debug\Console Strings and Integers.exe
+C:\Users\Jrhea\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\Console Strings and Integers\Console Strings and Integers\bin\Debug\Console Strings and Integers.pdb
+C:\Users\Jrhea\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\Console Strings and Integers\Console Strings and Integers\obj\Debug\Console Strings and Integers.csproj.AssemblyReference.cache
+C:\Users\Jrhea\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\Console Strings and Integers\Console Strings and Integers\obj\Debug\Console Strings and Integers.csproj.CoreCompileInputs.cache
+C:\Users\Jrhea\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\Console Strings and Integers\Console Strings and Integers\obj\Debug\Console Strings and Integers.exe
+C:\Users\Jrhea\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\Console Strings and Integers\Console Strings and Integers\obj\Debug\Console Strings and Integers.pdb
