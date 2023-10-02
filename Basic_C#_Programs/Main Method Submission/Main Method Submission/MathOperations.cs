@@ -2,21 +2,24 @@
 
 public class MathOperations
 {
-    // Method 1: Add 10 to the input number
-    public static int AddTen(int number)
+
+    // Adds 10 to an integer and returns the result
+    public int AddTen(int number)
     {
         return number + 10;
     }
 
-    // Method 2: Subtract 5 from the input number
-    public static int SubtractFive(int number)
+    // Adds 10 to a decimal, converts to int, and returns the result
+    public int AddTen(decimal number)
     {
-        return number - 5;
+        return (int)(number + 10);
     }
 
-    // Method 3: Multiply the input number by 2
-    public static int MultiplyByTwo(int number)
+    // Converts string to int, adds 10, and returns the result
+    public int AddTen(string numberText)
     {
-        return number * 2;
+        int number = int.Parse(numberText);
+        return number + 10;
     }
+
 }
