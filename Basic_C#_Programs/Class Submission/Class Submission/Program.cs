@@ -40,7 +40,8 @@ namespace Class_Submission
             Console.WriteLine($"Sum: {sum}");
             Console.WriteLine($"Product: {product}");
 
-            Console.ReadLine(); // Keep the console window open.
+            Helper.DisplayMessage("Press any key to exit...");
+            Console.ReadKey(); // Keep the console window open.
         }
     }
 }
