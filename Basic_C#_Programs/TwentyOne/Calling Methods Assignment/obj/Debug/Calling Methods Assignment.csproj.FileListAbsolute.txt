@@ -1,0 +1,7 @@
+C:\Users\Jrhea\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\TwentyOne\Calling Methods Assignment\bin\Debug\Calling Methods Assignment.exe.config
+C:\Users\Jrhea\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\TwentyOne\Calling Methods Assignment\bin\Debug\Calling Methods Assignment.exe
+C:\Users\Jrhea\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\TwentyOne\Calling Methods Assignment\bin\Debug\Calling Methods Assignment.pdb
+C:\Users\Jrhea\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\TwentyOne\Calling Methods Assignment\obj\Debug\Calling Methods Assignment.csproj.AssemblyReference.cache
+C:\Users\Jrhea\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\TwentyOne\Calling Methods Assignment\obj\Debug\Calling Methods Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Jrhea\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\TwentyOne\Calling Methods Assignment\obj\Debug\Calling Methods Assignment.exe
+C:\Users\Jrhea\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\TwentyOne\Calling Methods Assignment\obj\Debug\Calling Methods Assignment.pdb
