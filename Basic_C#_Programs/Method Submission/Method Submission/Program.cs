@@ -1,6 +1,4 @@
-﻿using Method_Submission;
-using System;
-
+﻿using System;
 class Program
 {
     static void Main()
@@ -15,14 +13,18 @@ class Program
         Console.Write("Enter the second number (press Enter to skip): ");
         string input2Str = Console.ReadLine();
 
-        // Initialize input2 with a default value of 0
-        int input2 = 0;
+        int input2;
 
-        // Check if the user entered a second number
-        if (!string.IsNullOrEmpty(input2Str))
+        try
         {
-            // Parse the second input as an integer
+            // Try to parse the second input as an integer
             input2 = int.Parse(input2Str);
+        }
+        catch (FormatException)
+        {
+            // Handle the case where the second input is not a valid integer
+            Console.WriteLine("Invalid input for the second number. Using the default value (0).");
+            input2 = 0;
         }
 
         // Call the PerformMathOperation method with the provided inputs
