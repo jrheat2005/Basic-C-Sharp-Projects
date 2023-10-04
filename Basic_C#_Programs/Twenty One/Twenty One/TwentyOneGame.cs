@@ -8,9 +8,14 @@ namespace Twenty_One
 {
     public class TwentyOneGame : Game
     {
-        public void Play()
+        public override void Play()
         {
             throw new NotImplementedException();
+        }
+        public override void ListPlayer()
+        {
+            Console.WriteLine("21 Players:");
+            base.ListPlayer();
         }
     }
 }
