@@ -9,7 +9,7 @@ namespace Twenty_One
         public string Name { get; set; }
         public string Dealer { get; set; }
         public abstract void Play();
-        public virtual void ListPlayer()
+        public virtual void ListPlayers()
         {
             foreach (string player in Players)
             {
