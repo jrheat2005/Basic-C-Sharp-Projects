@@ -5,3 +5,6 @@ C:\Users\Jrhea\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\Twenty 
 C:\Users\Jrhea\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\Twenty One\Twenty One\obj\Debug\Twenty One.csproj.CoreCompileInputs.cache
 C:\Users\Jrhea\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\Twenty One\Twenty One\obj\Debug\Twenty One.exe
 C:\Users\Jrhea\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\Twenty One\Twenty One\obj\Debug\Twenty One.pdb
+C:\Users\Jrhea\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\Twenty One\Twenty One\bin\Debug\Casino.dll
+C:\Users\Jrhea\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\Twenty One\Twenty One\bin\Debug\Casino.pdb
+C:\Users\Jrhea\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\Twenty One\Twenty One\obj\Debug\Twenty One.csproj.CopyComplete
