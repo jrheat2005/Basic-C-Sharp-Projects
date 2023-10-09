@@ -1,0 +1,7 @@
+C:\Users\Jrhea\source\repos\Date TIme Submission\Date TIme Submission\bin\Debug\Date TIme Submission.exe.config
+C:\Users\Jrhea\source\repos\Date TIme Submission\Date TIme Submission\bin\Debug\Date TIme Submission.exe
+C:\Users\Jrhea\source\repos\Date TIme Submission\Date TIme Submission\bin\Debug\Date TIme Submission.pdb
+C:\Users\Jrhea\source\repos\Date TIme Submission\Date TIme Submission\obj\Debug\Date TIme Submission.csproj.AssemblyReference.cache
+C:\Users\Jrhea\source\repos\Date TIme Submission\Date TIme Submission\obj\Debug\Date TIme Submission.csproj.CoreCompileInputs.cache
+C:\Users\Jrhea\source\repos\Date TIme Submission\Date TIme Submission\obj\Debug\Date TIme Submission.exe
+C:\Users\Jrhea\source\repos\Date TIme Submission\Date TIme Submission\obj\Debug\Date TIme Submission.pdb
