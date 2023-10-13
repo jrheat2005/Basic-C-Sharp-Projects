@@ -7,12 +7,14 @@ using System.Net;
 using System.Web;
 using System.Web.Mvc;
 using CarInsurance.Models;
+using CarInsurance.Services;
 
 namespace CarInsurance.Controllers
 {
     public class InsureeController : Controller
     {
         private InsuranceEntities db = new InsuranceEntities();
+        private InsuranceCalculator insuranceCalculator;
 
         // GET: Insuree
         public ActionResult Index()
@@ -40,6 +42,10 @@ namespace CarInsurance.Controllers
         {
             return View();
         }
+        public InsureeController()
+        {
+            this.insuranceCalculator = new InsuranceCalculator();
+        }
 
         // POST: Insuree/Create
         // To protect from overposting attacks, enable the specific properties you want to bind to, for 
@@ -50,55 +56,11 @@ namespace CarInsurance.Controllers
         {
             if (ModelState.IsValid)
             {
-                decimal monthlyTotal = 50;
-                if (insuree.DateOfBirth.Year >= DateTime.Now.Year - 18)
-                {
-                    monthlyTotal += 100;
-                }
-                else if (insuree.DateOfBirth.Year >= DateTime.Now.Year - 25)
-                {
-                    monthlyTotal += 50;
-                }
-                else
-                {
-                    monthlyTotal += 25;
-                }
-                if (insuree.CarYear < 2000)
-                {
-                    monthlyTotal += 25;
-                }
-                else if (insuree.CarYear > 2015)
-                {
-                    monthlyTotal += 25;
-                }
-
-                if (insuree.CarMake == "Porsche")
-                {
-                    monthlyTotal += 25;
-                    if (insuree.CarModel == "911 Carrera")
-                    {
-                        monthlyTotal += 25;
-                    }
-                }
-
-                monthlyTotal += insuree.SpeedingTickets * 10;
-                if (insuree.DUI)
-                {
-                    monthlyTotal *= 1.25m;
-                }
-
-                if (insuree.CoverageType == "Full")
-                {
-                    monthlyTotal *= 1.5m;
-                }
-                insuree.Quote = monthlyTotal;
-
+                insuree.Quote = insuranceCalculator.CalculateQuote(insuree);
                 db.Insurees.Add(insuree);
                 db.SaveChanges();
-
                 return RedirectToAction("Index");
             }
-
             return View(insuree);
         }
 
@@ -126,6 +88,7 @@ namespace CarInsurance.Controllers
         {
             if (ModelState.IsValid)
             {
+                insuree.Quote = insuranceCalculator.CalculateQuote(insuree);
                 db.Entry(insuree).State = EntityState.Modified;
                 db.SaveChanges();
                 return RedirectToAction("Index");
