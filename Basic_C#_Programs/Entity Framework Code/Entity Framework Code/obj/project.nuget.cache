@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "p4IDxDVqdcWdd5DjEJbCF6LRLpdjdqh155cML6XyMawIyBh+vTVvs+TqsKmKLFoWaeiOMhzQ89CPJXj7zhWBLQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jrhea\\Documents\\GitHub\\Basic-C-Sharp-Projects\\Basic_C#_Programs\\Entity Framework Code\\Entity Framework Code\\Entity Framework Code.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jrhea\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.23\\microsoft.entityframeworkcore.6.0.23.nupkg.sha512",
+    "C:\\Users\\Jrhea\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.23\\microsoft.entityframeworkcore.abstractions.6.0.23.nupkg.sha512",
+    "C:\\Users\\Jrhea\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\6.0.23\\microsoft.entityframeworkcore.analyzers.6.0.23.nupkg.sha512",
+    "C:\\Users\\Jrhea\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\6.0.0\\microsoft.extensions.caching.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Jrhea\\.nuget\\packages\\microsoft.extensions.caching.memory\\6.0.1\\microsoft.extensions.caching.memory.6.0.1.nupkg.sha512",
+    "C:\\Users\\Jrhea\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.1\\microsoft.extensions.dependencyinjection.6.0.1.nupkg.sha512",
+    "C:\\Users\\Jrhea\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Jrhea\\.nuget\\packages\\microsoft.extensions.logging\\6.0.0\\microsoft.extensions.logging.6.0.0.nupkg.sha512",
+    "C:\\Users\\Jrhea\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Jrhea\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\Jrhea\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\Jrhea\\.nuget\\packages\\system.collections.immutable\\6.0.0\\system.collections.immutable.6.0.0.nupkg.sha512",
+    "C:\\Users\\Jrhea\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.1\\system.diagnostics.diagnosticsource.6.0.1.nupkg.sha512",
+    "C:\\Users\\Jrhea\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

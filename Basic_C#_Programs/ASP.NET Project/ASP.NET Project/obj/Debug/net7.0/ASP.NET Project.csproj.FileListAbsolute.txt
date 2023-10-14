@@ -1,0 +1,31 @@
+C:\Users\Jrhea\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\ASP.NET Project\ASP.NET Project\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Jrhea\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\ASP.NET Project\ASP.NET Project\bin\Debug\net7.0\appsettings.json
+C:\Users\Jrhea\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\ASP.NET Project\ASP.NET Project\bin\Debug\net7.0\ASP.NET Project.staticwebassets.runtime.json
+C:\Users\Jrhea\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\ASP.NET Project\ASP.NET Project\bin\Debug\net7.0\ASP.NET Project.exe
+C:\Users\Jrhea\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\ASP.NET Project\ASP.NET Project\bin\Debug\net7.0\ASP.NET Project.deps.json
+C:\Users\Jrhea\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\ASP.NET Project\ASP.NET Project\bin\Debug\net7.0\ASP.NET Project.runtimeconfig.json
+C:\Users\Jrhea\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\ASP.NET Project\ASP.NET Project\bin\Debug\net7.0\ASP.NET Project.dll
+C:\Users\Jrhea\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\ASP.NET Project\ASP.NET Project\bin\Debug\net7.0\ASP.NET Project.pdb
+C:\Users\Jrhea\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\ASP.NET Project\ASP.NET Project\obj\Debug\net7.0\ASP.NET Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jrhea\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\ASP.NET Project\ASP.NET Project\obj\Debug\net7.0\ASP.NET Project.AssemblyInfoInputs.cache
+C:\Users\Jrhea\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\ASP.NET Project\ASP.NET Project\obj\Debug\net7.0\ASP.NET Project.AssemblyInfo.cs
+C:\Users\Jrhea\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\ASP.NET Project\ASP.NET Project\obj\Debug\net7.0\ASP.NET Project.csproj.CoreCompileInputs.cache
+C:\Users\Jrhea\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\ASP.NET Project\ASP.NET Project\obj\Debug\net7.0\ASP.NET Project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Jrhea\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\ASP.NET Project\ASP.NET Project\obj\Debug\net7.0\ASP.NET Project.RazorAssemblyInfo.cache
+C:\Users\Jrhea\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\ASP.NET Project\ASP.NET Project\obj\Debug\net7.0\ASP.NET Project.RazorAssemblyInfo.cs
+C:\Users\Jrhea\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\ASP.NET Project\ASP.NET Project\obj\Debug\net7.0\staticwebassets\msbuild.ASP.NET Project.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Jrhea\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\ASP.NET Project\ASP.NET Project\obj\Debug\net7.0\staticwebassets\msbuild.build.ASP.NET Project.props
+C:\Users\Jrhea\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\ASP.NET Project\ASP.NET Project\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ASP.NET Project.props
+C:\Users\Jrhea\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\ASP.NET Project\ASP.NET Project\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ASP.NET Project.props
+C:\Users\Jrhea\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\ASP.NET Project\ASP.NET Project\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Jrhea\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\ASP.NET Project\ASP.NET Project\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Jrhea\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\ASP.NET Project\ASP.NET Project\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Jrhea\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\ASP.NET Project\ASP.NET Project\obj\Debug\net7.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Jrhea\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\ASP.NET Project\ASP.NET Project\obj\Debug\net7.0\scopedcss\bundle\ASP.NET Project.styles.css
+C:\Users\Jrhea\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\ASP.NET Project\ASP.NET Project\obj\Debug\net7.0\scopedcss\projectbundle\ASP.NET Project.bundle.scp.css
+C:\Users\Jrhea\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\ASP.NET Project\ASP.NET Project\obj\Debug\net7.0\ASP.NET Project.dll
+C:\Users\Jrhea\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\ASP.NET Project\ASP.NET Project\obj\Debug\net7.0\refint\ASP.NET Project.dll
+C:\Users\Jrhea\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\ASP.NET Project\ASP.NET Project\obj\Debug\net7.0\ASP.NET Project.pdb
+C:\Users\Jrhea\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\ASP.NET Project\ASP.NET Project\obj\Debug\net7.0\ASP.NET Project.genruntimeconfig.cache
+C:\Users\Jrhea\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\ASP.NET Project\ASP.NET Project\obj\Debug\net7.0\ref\ASP.NET Project.dll
+C:\Users\Jrhea\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\ASP.NET Project\ASP.NET Project\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
